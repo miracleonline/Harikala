@@ -1160,13 +1160,14 @@ section {
 
 .dynamic .dynamic-item {
     background: white;
-    padding: 2rem;
+    padding: 4rem;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     border-radius: 8px;
     transition: transform 0.3s;
     flex: 1 1 calc(50% - 2rem); /* Adjust to ensure two items per row with space in between */
     box-sizing: border-box;
     border: 1px solid orange;
+     min-height: 200px; /* Set minimum height */
 }
 
 .dynamic .dynamic-item:hover {
@@ -1176,6 +1177,10 @@ section {
 .dynamic h3 {
     font-size: 1.75rem;
     margin-bottom: 1rem;
+}
+
+.dynamic p {
+    font-weight: 700;
 }
 
 /* Responsive design for smaller screens */
