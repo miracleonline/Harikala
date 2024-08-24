@@ -1126,7 +1126,6 @@ section {
 .services .service-box:hover h3,
 .services .service-box:hover p,
 .services .service-box:hover .read-more {
-  background-color: orange;
   color: #fff;
 }
 
