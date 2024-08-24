@@ -872,29 +872,29 @@ section {
 
 /* Positioning of the value items around the circle for larger screens */
 .top-left {
-    top: 10px; /* Adjust as needed */
+    top: 20px; /* Adjust as needed */
     left: 10px; /* Adjust as needed */
 }
 
 .top-right {
-    top: 10px; /* Adjust as needed */
+    top: 20px; /* Adjust as needed */
     right: 10px; /* Adjust as needed */
 }
 
 .middle-left {
-    top: 60%;
+    top: 70%;
     left: 10px; /* Adjust as needed */
     transform: translateY(-50%);
 }
 
 .middle-right {
-    top: 60%;
+    top: 70%;
     right: 10px; /* Adjust as needed */
     transform: translateY(-50%);
 }
 
 .bottom-center {
-    bottom: -150px; /* Adjust as needed */
+    bottom: -140px; /* Adjust as needed */
     left: 50%;
     transform: translateX(-50%);
 }
