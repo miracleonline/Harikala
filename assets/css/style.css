@@ -1270,7 +1270,7 @@ section {
 .community-development {
     position: relative;
     padding: 5rem 0;
-    background: url('../img/Happy-africans.jpg') no-repeat center center/cover;
+    background: url('../img/Happy-africans.jpg') no-repeat cover;
     color: white;
     text-align: center;
 }
